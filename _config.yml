@@ -1,0 +1,31 @@
+# Site settings
+title: "Sriram Sundarraj's Blog"
+email: ssundarraj@gmail.com
+description: "A small attempt at a coding blog."
+baseurl: "/blog"
+url: "http://ssundarraj.me/blog"
+title_description: "A small attempt at a coding blog."
+title_image: "https://avatars1.githubusercontent.com/u/4509724?v=3&s=460"
+google_analytics: "UA-64291420-1"
+disqus_account: 
+github_repository: https://github.com/ssundarraj/blog
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: srirams6
+github_username:  ssundarraj
+# linkedin_link: ""
+# google_plus_link: ""
+stackoverflow_link: http://stackoverflow.com/users/2441165/ssundarraj
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by Sriram Sundarraj"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/ssundarraj/blog\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
