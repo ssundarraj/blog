@@ -20,7 +20,7 @@ github_username:  ssundarraj
 stackoverflow_link: http://stackoverflow.com/users/2441165/ssundarraj
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by Sriram Sundarraj"
+footer_left: "Made by <a href='http://ssundarraj.me'>Sriram Sundarraj</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/ssundarraj/blog\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
