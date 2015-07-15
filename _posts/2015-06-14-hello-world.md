@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Hello world!
+author:     Sriram Sundarraj
 date:       2015-07-14 02:34:18
 summary:    My first blog post.
 categories: jekyll
