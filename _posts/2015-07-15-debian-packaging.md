@@ -29,7 +29,7 @@ If you're using OS X you can install it from homebrew (`brew install dpkg`).
 
 Essentially, a debian file holds data regarding your package and files that your package needs. It copies the files that are required onto the target system. It may execute some commands before and after installation.
 
-First off, you will need to create a folder which is going to be packaged. We will call this the `PACKAGE` folder. It contains all your package files and data. 
+First, you will need to create a folder which is going to be packaged. We will call this the `PACKAGE` folder. It contains all your package files and data. 
 Inside this, you should create a folder named `DEBIAN`. This folder will contain all the meta data pertaining to your package and all the install scripts.
 
 You directory strcture should look something like this.
@@ -149,6 +149,8 @@ Your package should have been built as a `.deb` file.
 
 
 # Conclusion
+
+For an in-depth guide to packaging, you can read the [official Debian packaging guide](https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf).
 
 I hope this helped you in getting a quick understanding of how to make simple debian packages. If you spot any mistakes or corrections, please feel free to write to me.
 
