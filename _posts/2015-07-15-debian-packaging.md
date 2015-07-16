@@ -4,7 +4,7 @@ title:      Debian packaging
 date:       2015-07-16 01:34:18
 author:     Sriram Sundarraj
 summary:    Quick debian packaging guide. 
-categories: tuorial
+categories: tutorial
 thumbnail:  debian
 tags:
  - debian
@@ -141,12 +141,12 @@ Your package structure may look like this.
 Navigate to the parent directory of `PACKAGE` and execute the `dpkg-deb` command.
 
 ```
-dpkg-deb --build PACKAGE
+$ dpkg-deb --build PACKAGE
 ```
 
 Your package should have been built as a `.deb` file.
 
-
+To test your package, you can install it localling using `dpkg -i MyPackage.deb`.
 
 # Conclusion
 
