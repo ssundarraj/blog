@@ -16,7 +16,7 @@ tags:
 
 # Simple Debian Packaging in 10 Minutes
 
-Recently, I made a simple debian package. I noticed that there weren't any simple tutorials for making a package. I had to go through many sources to make a small package. That's the motivation behind this post.
+Recently, I made a simple debian package. I noticed that there weren't any simple tutorials for making a package. I had to go through many sources to make a simple package, and so I decided to write this.
 
 This is not comprehensive by any means. It's just a quick guide to making simple, small debian packages.
 
