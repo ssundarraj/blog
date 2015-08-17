@@ -4,7 +4,7 @@ title:      The Python GIL
 author:     Sriram Sundarraj
 date:       2015-07-29 02:34:18
 summary:    The hard facts about the Python GIL.  
-categories: jekyll
+categories: python
 thumbnail: python
 tags:
  - python
