@@ -12,7 +12,11 @@ tags:
  - GIL
 ---
 
-This post aims to give you the hard facts about the Python GIL.
+> Q: Why did the multithreaded chicken cross the road?
+
+> A: to To other side get the
+
+As you can see, multithreading is a source of confusion for many developers both novice and experienced. And the Python GIL adds another layer of confusion to this. The truth is that there is very little to be confused about. We shall now see some hard facts about the Python GIL.
 
 ## What is GIL
 
